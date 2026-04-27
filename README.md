@@ -1,4 +1,4 @@
-# my.gmail-shield
+# play.chrome-extension
 
 ## 概要
 

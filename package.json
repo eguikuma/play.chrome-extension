@@ -1,5 +1,5 @@
 {
-  "name": "my.gmail-shield",
+  "name": "play.chrome-extension",
   "description": "Gmailのプライバシーを保護するシールド機能を提供します",
   "version": "0.1.0",
   "private": true,
